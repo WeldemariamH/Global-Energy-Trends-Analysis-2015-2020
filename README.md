@@ -1,4 +1,4 @@
-####### Global Energy Trends Analysis (2015-2020)
+###### Global Energy Trends Analysis (2015-2020)
 
 ### Overview
 This repository contains data, code, and analyses related to a comprehensive study on global energy trends from 2015 to 2020. The project involves data exploration, cleaning, preprocessing in Python, as well as visualization and analysis in Power BI.
