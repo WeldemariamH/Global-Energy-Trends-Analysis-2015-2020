@@ -7,3 +7,21 @@ Files Included
 3. `Data_Exploration_Cleaning_Preprocessing.py` - Python script that covers data exploration, cleaning, and preprocessing tasks. This includes plotting line charts for column distributions, creating new columns, and merging parental data.
 4. `merged_data.csv` - Merged dataset after preprocessing, combining relevant columns for further analysis.
 5. 'powerbi_report.pbix` - Power BI file containing three insightful pages of analysis.
+Usage
+
+To replicate or extend this analysis, follow these steps:
+
+  1. Data Exploration, Cleaning, and Preprocessing
+
+- Execute the Python script `Data_Exploration_Cleaning_Preprocessing.py` in a Jupyter environment.
+  2. Power BI Analysis
+- Import the `merged_data.csv` file into Power BI.
+- Open the `powerbi_report.pbix` file to explore the visualizations and analyses.
+
+  Getting Started
+These instructions will help you set up the project on your local machine for development and analysis purposes.
+1. Clone the repository.
+2. Follow the usage instructions above.
+License
+Acknowledgement
+Special thanks to the UCI Machine Learning Repository for providing the original dataset.
